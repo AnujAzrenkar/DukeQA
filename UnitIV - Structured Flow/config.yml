@@ -1,0 +1,13 @@
+mysqlDB:
+  host: e-as-001-dev.davidcareers.com
+  port: 3636
+  
+  jc:
+    user: root
+    pass: toor
+    dbname: johnsoncareersDB
+
+  mc: 
+    user: root 
+    pass: toor
+    dbname: mccarthyDB
